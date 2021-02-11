@@ -6,6 +6,8 @@ Pewlett-Hackard is a large company with several thousand employees and many of t
 
 ## Results
 
+![retiring_titles](https://github.com/mdhugge/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 ## Summary
