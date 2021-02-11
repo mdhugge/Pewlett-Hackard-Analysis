@@ -13,6 +13,11 @@ To determine the number of employees retiring per title only those that were bor
 -	29, 414 Senior Engineers and 28, 255 Senior Staff at Pewlett-Hackard will be retiring. This is a large number of senior employees that are approaching retirement. 
 -	2 Mangers at Pewlett-Hackard will be approaching retirement. Extensive training will be required to find a suitable replacement for these employees. 
 
+Pewlett-Hackard is offering a mentorship program for current employees that were born in 1965. 
+
+[Mentorship_Eligibility](https://github.com/mdhugge/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
+
+
 ## Summary
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
