@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-Overview of the analysis: Explain the purpose of this analysis.
+Pewlett-Hackard is a larger company with several thousand employees and many of them are reaching retirement. The retirement will leave thousands of job openings. In order to prepare for this, Pewlett-Hackard will need to determine who will be retiring in the next few years and how many positions need to be filled. SQL was used to determine the number of retiring employees per title and to identify employees that are eligible for a mentorship program that Pewlett-Hackard is offering. 
 
 ## Results
 
