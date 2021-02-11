@@ -18,7 +18,7 @@ Pewlett-Hackard is offering a mentorship program for current employees that were
 
 [Mentorship Eligibility](https://github.com/mdhugge/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
-- 1,549 employees are eligible for the mentorship program. 
+- 1,549 employees are eligible for this mentorship program. 
 
 
 ## Summary
