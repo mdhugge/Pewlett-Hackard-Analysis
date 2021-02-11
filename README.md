@@ -6,9 +6,9 @@ Pewlett-Hackard is a large company with several thousand employees and many of t
 
 ## Results
 
-![retiring_titles](https://github.com/mdhugge/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
-
 To determine the number of employees retiring per title only those that were born between the years 1952 and 1955 were included. This makes the assumption that those born between 1952 and 1955 will be retiring soon.
+
+![retiring_titles](https://github.com/mdhugge/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
 
 -	29, 414 Senior Engineers and 28, 255 Senior Staff at Pewlett-Hackard will be retiring. This is a large number of senior employees that are approaching retirement. 
 -	2 Mangers at Pewlett-Hackard will be approaching retirement. Extensive training will be required to find a suitable replacement for these employees. 
