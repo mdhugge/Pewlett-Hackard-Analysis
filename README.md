@@ -15,7 +15,7 @@ To determine the number of employees retiring per title only those that were bor
 -	2 Mangers at Pewlett-Hackard will be approaching retirement. Extensive training will be required to find a suitable replacement for these employees. 
 
 
-Pewlett-Hackard is offering a mentorship program for current employees that were born in 1965. 
+Pewlett-Hackard is offering a mentorship program, current employees that were born in 1965 qualify to be a mentor. 
 
 [Mentorship Eligibility](https://github.com/mdhugge/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
@@ -26,11 +26,13 @@ Pewlett-Hackard is offering a mentorship program for current employees that were
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-Pewlett-Hackard needs to prepare to have 29,414	Senior Engineer's, 28,255	Senior Staff, 14,222	Engineer's, 12,242	Staff, 4,502	Technique Leader's, 1,761	Assistant Engineer's and 2	Manager's retiring. This is a total of 90, 398 employees approaching retirement. This is a large number of employees that Pewlett-Hackard will be losing and if they do not prepare it can significantly affect the future of the company. 
+
+Pewlett-Hackard needs to prepare to have 29414	Senior Engineer's, 28255	Senior Staff, 14222	Engineer's, 12242	Staff, 4502	Technique Leader's, 1761	Assistant Engineer's and 2 Manager's retiring. This is a total of 90, 398 employees approaching retirement. This is a large number of employees that Pewlett-Hackard will be losing and if they do not prepare it can significantly affect the future of the company. 
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees?
 
-Only 1,549 employees qualify for the mentorship program. If one retirement-ready employee were responsible for training a group of the next generation Pewlett-Hackard employees, than 1 retirement-ready employee would mentor approximately 58 new hires (i.e. 90398/ 1549 = 58.35). This is a large group of people for 1 person to mentor and it would be very difficult. Pewlett-Hackard could expand the eligibility to participate in the mentorship program in order to meet their needs. 
+
+Only 1,549 employees qualify for the mentorship program. If one retirement-ready employee were responsible for training a group of the next generation Pewlett-Hackard employees, than 1 retirement-ready employee would mentor approximately 58 new hires (i.e. 90398/ 1549 = 58.35). This is a large group of people for 1 person to mentor and it would be very difficult. Pewlett-Hackard could expand the eligibility to participate in the mentorship program, so that there would be more mentors available for the new hires. 
 
 - We now have a list of all employees eligible for retirement it would be useful to determine the number of employees that are ineligible for retirement. This analysis would allow Pewlett-Hackard to see how many employees they will have in the coming years and how to better utilize their current employees. 
 
