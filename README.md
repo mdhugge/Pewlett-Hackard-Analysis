@@ -23,6 +23,14 @@ Pewlett-Hackard is offering a mentorship program for current employees that were
 
 ## Summary
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+- We now have a list of all employees eligible for retirement it would be useful to determine the number of employees that are ineligible for retirement. This analysis would allow Pewlett-Hackard to see how many employees they will have in the coming years and how to better utilize their current employees. 
+
+- From the list of employees ineligible for retirement, it would be useful to analyze the number of employees that are available in each department. Knowing this information would allow Pewlett-Hackard to see which departments will be understaffed and as a result they could hire accordingly. 
+
+
+
+
